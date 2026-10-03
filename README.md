@@ -1,16 +1,16 @@
-## Hi there 👋
+### أهلاً بك في حسابي الشخصي!
 
-<!--
-**magdasamysophy-eng/magdasamysophy-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+أنا **ماجدة سامي**، مطورة مواقع إلكترونية. أؤمن بأن البرمجيات الحقيقية هي التي تصنع فارقاً وتخدم المجتمع، لذلك أسعى دائمًا لتصميم وبناء تطبيقات ويب هادفة تحل مشكلات واقعية وتسهل حياة الناس.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### التقنيات والأدوات:
+* **لغات البرمجة:** PHP, JavaScript, HTML, CSS
+* **قواعد البيانات:** SQL Server, MySQL
+* **أدوات التطوير:** Visual Studio Code, XAMPP, Git & GitHub
+
+---
+
+### المشاريع البارزة:
+* **موقع مبصر (Mobser):** منصة ويب تفاعلية مخصصة لمساعدة ذوي الإعاقة البصرية في بيئة العمل عبر التفاعل الصوتي.
+*
